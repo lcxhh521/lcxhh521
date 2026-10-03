@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&repeat=false&width=320&height=45&lines=lcxhh521" alt="lcxhh521" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=E8A33D&center=true&vCenter=true&repeat=true&width=480&height=45&lines=lcxhh521;opencodex+contributor;ChatGPT+%C2%B7+Claude+%C2%B7+Codex;%E6%88%91%E7%88%B1%E5%90%83%E8%9B%8B%E6%8C%9E+%F0%9F%A5%A7" alt="lcxhh521" />
 
 <br/>
 
