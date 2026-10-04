@@ -6,6 +6,10 @@
 
 <sub>公主号：我爱吃蛋挞 · 欢迎打赏 🥧</sub>
 
+<br/>
+
+<a href="mailto:lcxhh521@gmail.com"><img src="https://img.shields.io/badge/Gmail-lcxhh521%40gmail.com-E8A33D?style=flat-square&logo=gmail&logoColor=white" /></a>
+
 <br/><br/>
 
 <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-Pro-E8A33D?style=flat-square&logo=openai&logoColor=white" /></a>&nbsp;
