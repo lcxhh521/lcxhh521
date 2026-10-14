@@ -53,9 +53,9 @@
 
 ### 🤝 Contributing to
 
-| Project | Where |
-| --- | --- |
-| [`opencodex`](https://github.com/lidge-jun/opencodex) | ChatGPT desktop integration, usage throughput, web-search loop fixes — [my pull requests](https://github.com/lidge-jun/opencodex/pulls?q=is%3Apr+author%3Alcxhh521) |
+| Project | Where | Summary |
+| --- | --- | --- |
+| [`opencodex`](https://github.com/lidge-jun/opencodex) | ChatGPT desktop integration, usage throughput, web-search loop fixes — [my pull requests](https://github.com/lidge-jun/opencodex/pulls?q=is%3Apr+author%3Alcxhh521) | Added [output-throughput metrics](https://github.com/lidge-jun/opencodex/commit/9d3e6e252a362dd01e756bb48b3af3a75225bf4d) and [opt-in custom-provider context-window inference](https://github.com/lidge-jun/opencodex/pull/7024); fixed [web-search answer loops](https://github.com/lidge-jun/opencodex/commit/a85a43755ae164a324afa7ebd05b9f6e612baa86), [ChatGPT Desktop launcher safety and SOCKS5 TLS handshake timeouts](https://github.com/lidge-jun/opencodex/pull/7065).<br>Contributions merged directly or carried upstream with attribution. |
 
 </div>
 
