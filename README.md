@@ -14,6 +14,7 @@
 
 <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-Pro-E8A33D?style=flat-square&logo=openai&logoColor=white" /></a>&nbsp;
 <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-Max_5x-E8A33D?style=flat-square&logo=anthropic&logoColor=white" /></a>&nbsp;
+<a href="https://grok.com"><img src="https://img.shields.io/badge/Grok-SuperGrok_Plus-E8A33D?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/Codex-E8A33D?style=flat-square&logo=openai&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/DSH-E8A33D?style=flat-square&logo=deepseek&logoColor=white" /></a>
 
